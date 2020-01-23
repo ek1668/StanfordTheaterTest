@@ -14,4 +14,14 @@ section {
   font-family: 'Poiret One', cursive;
   background-color: black;
 }
+
+#about h1 {
+  margin: 50;
+  width: auto;
+}
+
+p {
+  margin: 50;
+  width: auto;
+}
 /*# sourceMappingURL=index.css.map */
