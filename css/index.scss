@@ -5,15 +5,27 @@ body{
 
 section{
   height: 100%;
+  
 }
 
 #title{
-  font-family: 'Poiret One', cursive;  
-  & img{
-    width: 100%;
-    height: auto;
-    
+  font-family: 'Poiret One', cursive; 
+  & div{
+  // background-image: src("images/Stanford_Theater_background.png" alt="");
+  background-color: #2a2a2a;
+  width:100%;
+  height: 100%;
+  background-repeat:no-repeat;
+  background-size:cover;   
+  & h1{
+    font-family: 'Limelight', cursive;
+    color: #dca342;
+    font-size: 62.1;
+    padding-top: 500px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
+    }
   }
 
   #about{
