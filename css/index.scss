@@ -8,18 +8,20 @@ section{
 }
 
 #title{
-  background-image: url(src="https://stanfordtheatre.org/images/Little-Women-1933.jpg");
-  background-color: blanchedalmond;
-  color: rgb(161, 24, 24);
   font-family: 'Poiret One', cursive;
   background-color: black;  
   }
 
   #about{
+    & div{
+      margin-left: 0px;
+      margin-right: 0px;
+    }
     
     & h1{
       margin: 50;
       width: auto;
+      
     }
   }
 
@@ -27,5 +29,3 @@ section{
     margin: 50;
     width: auto;
   }
-
-  
