@@ -12,6 +12,11 @@ section {
   background-color: black;
 }
 
+#title img {
+  width: 100%;
+  height: auto;
+}
+
 #about div {
   margin-left: 0px;
   margin-right: 0px;
