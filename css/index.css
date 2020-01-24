@@ -9,12 +9,14 @@ section {
 
 #title {
   font-family: 'Poiret One', cursive;
-  background-color: black;
+  background-color: #000000e3;
 }
 
 #title img {
+  max-width: 100%;
   width: 100%;
   height: auto;
+  margin-top: 25%;
 }
 
 #about div {
