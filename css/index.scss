@@ -21,7 +21,7 @@ section{
     font-family: 'Limelight', cursive;
     color: #dca342;
     font-size: 62.1;
-    padding-top: 200px;
+    padding-top: 25%;
     padding-bottom: 50%;
     padding-left: 10px;
     padding-right: 10px;
@@ -30,15 +30,20 @@ section{
   }
 
   #about{
+    height: auto;
     & div{
       margin-left: 0px;
       margin-right: 0px;
+      height: 50%;
+      & div{
+        height: auto;
+      }
     }
     
     & h1{
       margin: 50;
       width: auto;
-      
+      font-family: 'Limelight', cursive;
     }
   }
 
