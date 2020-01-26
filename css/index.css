@@ -29,14 +29,10 @@ section {
   padding-right: 10px;
 }
 
-#about {
-  height: auto;
-}
-
 #about div {
   margin-left: 0px;
   margin-right: 0px;
-  height: 50%;
+  height: 100%;
 }
 
 #about div div {
@@ -44,7 +40,7 @@ section {
 }
 
 #about h1 {
-  margin: 50;
+  margin: 50px;
   width: auto;
   font-family: 'Limelight', cursive;
 }
@@ -52,5 +48,14 @@ section {
 p {
   margin: 50;
   width: auto;
+}
+
+#current-films {
+  height: 100%;
+  width: 100%;
+}
+
+#current-films #carouselExampleControls {
+  background-color: aqua;
 }
 /*# sourceMappingURL=index.css.map */
