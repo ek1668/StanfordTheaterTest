@@ -65,6 +65,7 @@ section {
 
 #about h1 {
   padding: 10%;
+  padding-top: 20%;
   margin: 0%;
   height: 100%;
   width: auto;
@@ -77,15 +78,19 @@ section {
   width: auto;
   height: auto;
   margin: 0;
-  line-height: 2.5rem;
+  line-height: 3.5rem;
+  color: #5c636e;
+  font-size: 1.5rem;
+  text-align: left;
 }
 
 #current-films {
-  height: 100%;
+  height: auto;
   width: 100%;
 }
 
-#current-films #carouselExampleControls {
-  background-color: aqua;
+#current-films #carouselExampleControls .carousel-item {
+  width: 100%;
+  height: 100%;
 }
 /*# sourceMappingURL=index.css.map */
