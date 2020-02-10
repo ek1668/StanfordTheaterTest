@@ -34,6 +34,7 @@ section{
     background-repeat: no-repeat;
     height: 100%;
     width: auto;
+    color: transparent;
     
   // height: auto;
   //   // & img{
@@ -80,6 +81,7 @@ section{
       width: auto;
       font-family: 'Limelight', cursive;
       font-size: 5rem;
+      
     }
 
     & p{
@@ -91,6 +93,8 @@ section{
       color: #5c636e;
       font-size: 1.5rem;
       text-align: left;
+      @media (max-width: 575.98px) { font-size: 1rem; }
+      
     }
     
   }
