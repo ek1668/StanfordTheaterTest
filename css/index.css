@@ -8,7 +8,8 @@ section {
 }
 
 #title {
-  height: auto;
+  height: 100%;
+  width: 100%;
   font-family: 'Poiret One', cursive;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -26,27 +27,14 @@ section {
 }
 
 #title div {
-  height: auto;
-  background-color: #2a2a2a;
-  width: 100%;
+  vertical-align: middle;
+  background-size: 100%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
   height: 100%;
+  width: auto;
   background-repeat: no-repeat;
   background-size: cover;
-}
-
-#title div img {
-  width: 100%;
-  height: auto;
-}
-
-#title div h1 {
-  font-family: 'Limelight', cursive;
-  color: #dca342;
-  font-size: 62.1;
-  padding-top: 25%;
-  padding-bottom: 50%;
-  padding-left: 10px;
-  padding-right: 10px;
 }
 
 #about {
