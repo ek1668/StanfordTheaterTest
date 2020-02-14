@@ -144,10 +144,13 @@ section{
                             
                 
               }
-
-              & .card:hover{
-                transform: rotateY(180deg);
-                transition: transform 0.8s;
+              @media (max-width: 575.98px) {
+                & .card:hover{
+                  transform: rotateY(180deg);
+                  transition: transform 2s;
+                  
+              }
+              
                 
                 // transform-style: preserve-3d;
               }

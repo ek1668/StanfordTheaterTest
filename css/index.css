@@ -122,12 +122,14 @@ section {
   background-color: black;
 }
 
-#current-films #carouselExampleControls .carousel-inner .carousel-item .row .card:hover {
-  -webkit-transform: rotateY(180deg);
-          transform: rotateY(180deg);
-  -webkit-transition: -webkit-transform 0.8s;
-  transition: -webkit-transform 0.8s;
-  transition: transform 0.8s;
-  transition: transform 0.8s, -webkit-transform 0.8s;
+@media (max-width: 575.98px) {
+  #current-films #carouselExampleControls .carousel-inner .carousel-item .row .card:hover {
+    -webkit-transform: rotateY(180deg);
+            transform: rotateY(180deg);
+    -webkit-transition: -webkit-transform 2s;
+    transition: -webkit-transform 2s;
+    transition: transform 2s;
+    transition: transform 2s, -webkit-transform 2s;
+  }
 }
 /*# sourceMappingURL=index.css.map */
