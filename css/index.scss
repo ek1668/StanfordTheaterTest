@@ -140,8 +140,16 @@ section{
                 box-shadow: 0px 2px 0 #2a2a2a, -2px 8px 10px #444141;
 
               & .card-body{
-                background-color: black;
+                background-color: black;     
+                            
                 
+              }
+
+              & .card:hover{
+                transform: rotateY(180deg);
+                transition: transform 0.8s;
+                
+                // transform-style: preserve-3d;
               }
               
               // opacity: 0.5;
