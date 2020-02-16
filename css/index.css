@@ -137,6 +137,9 @@ section {
 #current-films #carouselExampleControls .carousel-inner .carousel-item .row .card {
   -webkit-box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+  margin: 0 auto;
+  /* Added */
+  float: none;
 }
 
 @media (max-width: 575.98px) {
