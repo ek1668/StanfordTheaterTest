@@ -127,7 +127,17 @@ section {
   background-color: black;
 }
 
+#current-films #carouselExampleControls .carousel-inner .carousel-item .row .card {
+  -webkit-box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+}
+
 @media (max-width: 575.98px) {
+  #current-films #carouselExampleControls .carousel-inner .carousel-item .row .card {
+    margin-bottom: 2rem;
+    -webkit-box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+            box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+  }
   #current-films #carouselExampleControls .carousel-inner .carousel-item .row .card:hover {
     -webkit-transform: rotateY(180deg);
             transform: rotateY(180deg);
