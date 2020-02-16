@@ -2,7 +2,13 @@
 
 <head>
   <title>Stanford Theater</title>
+<script>
+  var card = document.getElementsByClassName('card');
 
+document.getElementsByClassName('btn').addEventListener('click', function() {
+    card.classList.toggle('flipped');
+}, false);
+</script>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,900|Ubuntu:400,700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Poiret+One&display=swap" rel="stylesheet">
@@ -83,7 +89,7 @@
             <div class="carousel-item">
               <div class="row">
                   <!-- <div class="col-md-6"><img src="images/littlewomen.jpg" class="d-block w-100" alt="..."></div> -->
-                <div class="col-md-6" style="background-color: #2a2a2a;">
+                <div class="col-md-6" style="padding: 5%;">
                   <div class="card" style="width: 25rem;">
                     <div class="thefront">
                       <img src="images/littlewomen.jpg" class="card-img-top" alt="...">
@@ -100,7 +106,7 @@
                     </div>
                   </div>
                 </div>
-                  <div class="col-md-6" style="padding: 2.5%;"><h1>Little Women</h1><p>The classic story of four daughters in 19th century New England gave Katharine Hepburn one of the best roles of her career.
+                  <div class="col-md-6" style="padding: 2.5%; background-color: #2a2a2a;"><h1>Little Women</h1><p>The classic story of four daughters in 19th century New England gave Katharine Hepburn one of the best roles of her career.
                     Producer David O. Selznick, who was head of production at RKO, deserves much of the credit for the enormous success of this film. It was an early example of Selznick’s faith in classic literary material, brought to the screen with taste and production values.
                     “Offers endless pleasure no matter how many times you’ve seen it.” Leonard Maltin.
                     “A lovely, graceful film, and surprisingly faithful to the atmosphere, the Victorian sentiments, and the Victorian strengths of the Louisa May Alcott novel.” Pauline Kael.
