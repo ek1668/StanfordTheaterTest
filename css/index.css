@@ -74,7 +74,8 @@ section {
 }
 
 #about p {
-  padding: 10%;
+  padding: 5%;
+  padding-bottom: 10%;
   width: auto;
   height: auto;
   margin: 0;
