@@ -149,8 +149,8 @@ section {
             box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
   }
   #current-films #carouselExampleControls .carousel-inner .carousel-item .row .card:hover {
-    -webkit-transform: rotateY(180deg);
-            transform: rotateY(180deg);
+    -webkit-transform: perspective(600px) rotateY(180deg);
+            transform: perspective(600px) rotateY(180deg);
     -webkit-transform-style: preserve-3d;
             transform-style: preserve-3d;
     -webkit-transition: all 2s ease;
