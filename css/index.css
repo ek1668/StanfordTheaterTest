@@ -131,10 +131,25 @@ section {
   #current-films #carouselExampleControls .carousel-inner .carousel-item .row .card:hover {
     -webkit-transform: rotateY(180deg);
             transform: rotateY(180deg);
-    -webkit-transition: -webkit-transform 2s;
-    transition: -webkit-transform 2s;
-    transition: transform 2s;
-    transition: transform 2s, -webkit-transform 2s;
+    -webkit-transform-style: preserve-3d;
+            transform-style: preserve-3d;
+    -webkit-transition: all 2s ease;
+    transition: all 2s ease;
+  }
+  #current-films #carouselExampleControls .carousel-inner .carousel-item .row .card:hover .thefront {
+    -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+    height: 100%;
+    width: 100%;
+  }
+  #current-films #carouselExampleControls .carousel-inner .carousel-item .row .card:hover .theback {
+    -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+    -webkit-transform: rotateY(180deg);
+            transform: rotateY(180deg);
+    background: red;
+    height: 100%;
+    width: 100%;
   }
 }
 /*# sourceMappingURL=index.css.map */

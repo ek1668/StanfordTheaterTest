@@ -153,7 +153,28 @@ section{
               @media (max-width: 575.98px) {
                 & .card:hover{
                   transform: rotateY(180deg);
-                  transition: transform 2s;
+                  transform-style: preserve-3d;
+                  transition: all 2s ease;
+                  & .thefront{
+                    backface-visibility: hidden;
+                    height: 100%;
+                    width: 100%;
+                    
+                  }
+
+                  & .theback{
+                    
+                    backface-visibility: hidden;
+                    transform: rotateY(180deg);
+                    background: red;
+                    height: 100%;
+                    width: 100%;
+                    & div{
+                      
+                    }
+
+                  }
+                  
                   
               }
               
