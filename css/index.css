@@ -67,6 +67,12 @@ section {
   font-size: 5rem;
 }
 
+@media (max-width: 575.98px) {
+  #about h1 {
+    font-size: 3rem;
+  }
+}
+
 #about p {
   padding: 10%;
   width: auto;
