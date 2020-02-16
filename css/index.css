@@ -137,33 +137,4 @@ section {
     transition: transform 2s, -webkit-transform 2s;
   }
 }
-
-#visit-us {
-  height: 100%;
-}
-
-#visit-us h1 {
-  font-family: 'Limelight', cursive;
-  font-size: 5rem;
-  padding-top: 8%;
-}
-
-#visit-us #carouselExampleSlidesOnly {
-  height: 100%;
-  padding-top: 8%;
-}
-
-@media (max-width: 575.98px) {
-  #visit-us #carouselExampleSlidesOnly {
-    height: 50%;
-    width: auto;
-  }
-}
-
-@media (max-width: 575.98px) {
-  #visit-us .visit {
-    height: 50%;
-    width: auto;
-  }
-}
 /*# sourceMappingURL=index.css.map */

@@ -1,0 +1,179 @@
+[33mcommit 042a80657b1bb1a40cdc4c95279b1dcf34f26ea1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Sat Feb 15 20:31:13 2020 -0800
+
+    Visit section
+
+[33mcommit d2138c9abd7d0e56033f25fb67a4f0a9b10ed416[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Sat Feb 15 18:08:18 2020 -0800
+
+    Added visit in nav
+
+[33mcommit 513c4f5b1aee3dbbccfc8c008253046199e5121c[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Fri Feb 14 08:02:50 2020 -0800
+
+    testing rotate on card in mobive view
+
+[33mcommit 1b3bdbb8358cd6a9a25a91f0a08834b2cd5eadc9[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Fri Feb 14 07:34:33 2020 -0800
+
+    testing hover effect
+
+[33mcommit 69df12afab5468e2242ba5092b62e2aade3b438c[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Mon Feb 10 23:12:07 2020 -0800
+
+    added currently playing link to button
+
+[33mcommit a46bc955f8eb8b21192b53c23704cfbbc0295277[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Mon Feb 10 23:07:48 2020 -0800
+
+    fixed position for NAV
+
+[33mcommit 9cccc00ac1b687ea9642c46a4b0391dd95ab7661[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Mon Feb 10 23:03:08 2020 -0800
+
+    about nav scrolls down smoothly
+
+[33mcommit 23763d7b156e320b83a50622562bbabac0925686[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Sun Feb 9 23:32:44 2020 -0800
+
+    change text align in mobile view
+
+[33mcommit 1bd365067f70b0f10dd1d756abb19b3c63a2fc0e[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Sun Feb 9 20:43:57 2020 -0800
+
+    changed line height for mobile view
+
+[33mcommit 09d2f259ac8d59f1ccf7bdd9805eb5d480b22f11[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Sun Feb 9 20:36:10 2020 -0800
+
+    made about us font responsive
+
+[33mcommit 98df6cc8f7f5f774229b39b3e1ea2a63f1b5cd68[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Sun Feb 9 20:02:04 2020 -0800
+
+    changed the title section to bg as an image and responsive
+
+[33mcommit da2a1dddb74c70b6b5c8a1fc3f5489ce014f2754[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Sun Feb 9 19:52:49 2020 -0800
+
+    changed title section
+
+[33mcommit cd6ec550490bcc14ba5ede912a321891f627dead[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Sun Feb 9 10:21:33 2020 -0800
+
+    made changes to carousel
+
+[33mcommit 29534c749ea83f4a4da798a73aa504eb5bba5bfb[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Sat Feb 8 14:33:49 2020 -0800
+
+    added new style to the carousel
+
+[33mcommit 28432c7301e8fd9cd22dd95460de843fcb1a986c[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Fri Jan 31 09:50:17 2020 -0800
+
+    Inserting card from boot
+
+[33mcommit d111303febc7c52578d0cb2dd9611b4bb603c1cc[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Sun Jan 26 15:24:37 2020 -0800
+
+    changed height to auto
+
+[33mcommit b7c0e93e6dbc750bdbf1081c6b17d267a16f95a6[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Sun Jan 26 15:18:29 2020 -0800
+
+    adjusted height to auto
+
+[33mcommit 40ec3f1437b80be10d4a49a47ce78996044c2c02[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Sun Jan 26 15:11:12 2020 -0800
+
+    changed title section to image
+
+[33mcommit c171c1dbea8b621ebdcae277181dda243ad63221[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Sat Jan 25 17:25:37 2020 -0800
+
+    changed margins
+
+[33mcommit 1a2de2d97e9e5af7ad832f69a4c6601fe7195484[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Sat Jan 25 16:22:55 2020 -0800
+
+    most recent
+
+[33mcommit 01693df5b6e1f53865e68de5e4aa1ee03f8b442d[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Sat Jan 25 15:49:53 2020 -0800
+
+    margins
+
+[33mcommit f9dda9414f14088747ae3c1e3700694ed492ff8a[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Fri Jan 24 00:15:21 2020 -0800
+
+    changed header
+
+[33mcommit 6df439d19a02c99e5f53f8b902a802b6e6e49ec9[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Thu Jan 23 19:36:39 2020 -0800
+
+    changed header
+
+[33mcommit 93d8a67ff8c43d37ff5772cadf923ce8c1b67681[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Thu Jan 23 19:27:27 2020 -0800
+
+    testing header
+
+[33mcommit 1a0f4278a36de110a085c5af8f1b0d5f7a2f39e2[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Thu Jan 23 19:25:32 2020 -0800
+
+    testing logo
+
+[33mcommit faf2ac7192451a08304a786eb01cfba2538e409a[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Thu Jan 23 19:12:48 2020 -0800
+
+    testing header
+
+[33mcommit a91b27381e16c5635d54ec0f3cb555b31b3caf79[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Thu Jan 23 19:01:00 2020 -0800
+
+    got rid of the margins in the about me row
+
+[33mcommit 247e0f5982aa5028fd894ccd39e3d941cdfa3870[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Wed Jan 22 22:40:24 2020 -0800
+
+    margin changes
+
+[33mcommit 668bd447da4722ff22239c629a9cf5af46b5da49[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Wed Jan 22 21:52:08 2020 -0800
+
+    changed the width in the about columns
+
+[33mcommit 73904730b125b1aee53dba84ba9cefa346dcbef8[m
+Author: Eduard <ekrayz@gmail.com>
+Date:   Wed Jan 22 18:53:52 2020 -0800
+
+    initializing ST page
