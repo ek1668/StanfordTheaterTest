@@ -9,7 +9,7 @@ body{
 
 section{
   height: 100%;
-  
+ 
 }
 
 #title{
@@ -70,10 +70,12 @@ section{
       margin-left: 0px;
       margin-right: 0px;
       height: auto;
+      vertical-align: middle;
+    
       
     & div{
         height: auto;
-  
+        
       }
    }
     
@@ -117,7 +119,11 @@ section{
     height: auto;
     width: 100%;
 
-    & #carouselExampleControls{      
+    & #carouselExampleControls{    
+      
+      & .carousel-control-next, .carousel-control-prev{
+        width: 7%;
+      }
       
       & .carousel-inner{
         
@@ -164,8 +170,10 @@ section{
 
       }
       
-
-      
-
-    }
   }
+}
+
+#visit-us{
+
+  
+}

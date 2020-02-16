@@ -50,6 +50,7 @@ section {
   margin-left: 0px;
   margin-right: 0px;
   height: auto;
+  vertical-align: middle;
 }
 
 #about div div {
@@ -98,6 +99,10 @@ section {
   font-family: 'Limelight', cursive;
   margin-top: 5%;
   text-shadow: 1px 1px 1px black, 2px 2px 1px black;
+}
+
+#current-films #carouselExampleControls .carousel-control-next, #current-films #carouselExampleControls .carousel-control-prev {
+  width: 7%;
 }
 
 #current-films #carouselExampleControls .carousel-inner {
